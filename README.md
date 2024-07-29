@@ -101,11 +101,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contributing
 - [Gia-Bao Truong](https://github.com/buchijw/)
-- [The-Chuong Trinh](https://trinhthechuong.github.io)
-- Hoang-Son Lai Le
-- Van-Thinh To
 - Thanh-An Pham
+- Van-Thinh To
+- Hoang-Son Lai Le
 - Phuoc-Chung Van Nguyen
+- [The-Chuong Trinh](https://trinhthechuong.github.io)
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
 - Tuyen Ngoc Truong[^*]
 

@@ -100,6 +100,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 
 ## Contributing
+
 - [Gia-Bao Truong](https://github.com/buchijw/)
 - Thanh-An Pham
 - Van-Thinh To
@@ -107,9 +108,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Phuoc-Chung Van Nguyen
 - [The-Chuong Trinh](https://trinhthechuong.github.io)
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
-- Tuyen Ngoc Truong[^*]
+- Tuyen Ngoc Truong<sup>*</sup>
 
-[^*] Corresponding author
+<sup>*</sup>Corresponding author
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
